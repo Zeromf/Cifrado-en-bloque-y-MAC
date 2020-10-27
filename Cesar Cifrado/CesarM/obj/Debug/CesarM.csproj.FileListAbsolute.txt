@@ -1,0 +1,19 @@
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.exe.config
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.exe
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.Form1.resources
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.exe
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.csprojResolveAssemblyReference.cache
+B:\Downloads\CCesar-master\CesarM\CesarM\bin\Debug\CesarM.exe.config
+B:\Downloads\CCesar-master\CesarM\CesarM\bin\Debug\CesarM.exe
+B:\Downloads\CCesar-master\CesarM\CesarM\bin\Debug\CesarM.pdb
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.csprojAssemblyReference.cache
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.Form1.resources
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.csproj.GenerateResource.cache
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.csproj.CoreCompileInputs.cache
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.exe
+B:\Downloads\CCesar-master\CesarM\CesarM\obj\Debug\CesarM.pdb
